@@ -18,4 +18,6 @@ apt-get install ruby-full build-essential zlib1g-dev
 gem install sinatra
 gem insatll puma
 
+
+bundle exec puma -e production -d
 ```

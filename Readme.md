@@ -5,12 +5,12 @@
 	
 * Bulma CSS
 
-# SDLC
+## SDLC
 * draft script without views
 * main app utilizes vises in the views folder
 
 
-# Installation 
+## Installation 
 
 ```bash
 apt-get update && apt-get -y dist-upgrade

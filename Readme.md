@@ -5,6 +5,10 @@
 	
 * Bulma CSS
 
+# SDLC
+* draft script without views
+* main app utilizes vises in the views folder
+
 
 # Installation 
 
